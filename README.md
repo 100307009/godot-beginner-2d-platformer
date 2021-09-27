@@ -34,5 +34,5 @@ We share **the techniques professionals use to make games** and open source the 
 
 You can:
 
-- Join the community on [Discord](https://discord.gg/dKUX7m3)
+- Join the community on [Discord](https://discord.com/invite/87NNb3Z)
 - Follow us on [Twitter](https://twitter.com/NathanGDQuest)
